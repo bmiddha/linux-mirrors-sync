@@ -1,0 +1,10 @@
+[Unit]
+Description=Sync Linux Mirrors
+
+[Service]
+Type=simple
+ExecStart=/opt/mirrorsync/syncall.sh
+User=mirrorsync
+
+[Install]
+WantedBy=multi-user.target
