@@ -8,7 +8,6 @@ name=Archlinux
 log=/var/log/mirrorsync.archlinux.log
 
 ## Setup the server to mirror
-#remote=rsync://mirror.es.its.nyu.edu/archlinux/
 remote=rsync://mirrors.lug.mtu.edu/archlinux/
 
 ## Setup the local directory 

@@ -2,4 +2,4 @@
 
 Easy to customize scripts to sync Linux mirrors.
 
-`syncall.sh` Run scripts in `scripts/` and send and email if error occours
+`syncall.sh` Run scripts in `scripts/` and send and send an email if error occours
