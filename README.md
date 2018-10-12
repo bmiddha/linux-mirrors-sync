@@ -1,4 +1,4 @@
-# linux-mirrors-sync# linux-mirrors-sync
+# linux-mirrors-sync
 
 Easy to customize scripts to sync Linux mirrors.
 
